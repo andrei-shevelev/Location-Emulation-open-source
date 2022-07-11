@@ -31,4 +31,5 @@ andrei.zisoshevelev@gmail.com
 
 ## Поддержать проект
 [Картой](https://pay.cloudtips.ru/p/124ada72)
+
 Криптокошелек 0x4c423C83df60331D5c9C93f97238c5bBda3A5863
