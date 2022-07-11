@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Политика конфиденциальности:
+Эта политика конфиденциальности описывает условия получения и использования информации мобильным приложением Location Emulation 
+Наше приложение: 
+- Не собирает никакой пользовательской информации. 
+- Не содержит встроенных покупок, кроме тех что указаны в Google Play или iTunes (AppStore). 
+Анонимная информация, которую мы получаем о Вас от сторонних сервисов, таких как Google Analytics, Google Play и других включает в себя: информацию об установке (например, тип операционной системы и номер версии приложения), информацию об устройстве (аппаратная модель и версия операционной системы) и информацию о поведении пользователя. 
+Все данные, которые собираются, используются только для внутреннего анализа и исследований в целях улучшения данного продукта. 
+Мы не несем ответственность за последствия использования наших приложений, возникновения сбоев в устройствах или их поломки. 
+Наша политика конфиденциальности может меняться время от времени. Мы будем размещать какие-либо изменения Политики конфиденциальности на этой странице. 
+Если у вас есть какие-то вопросы относительно нашей политики безопасности, пожалуйста [пишите](andrei.zisoshevelev@gmail.com) нам. 
+andrei.zisoshevelev@gmail.com
 
-You can use the [editor on GitHub](https://github.com/andrei-shevelev/Location-Emulation-open-source/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrei-shevelev/Location-Emulation-open-source/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Privacy Policy 
+This privacy policy describes the conditions for the receipt and use of information by the Location Emulation mobile application 
+Our application: 
+- Does not collect any user information. 
+- Does not contain in-app purchases, except those listed in Google Play or iTunes (AppStore). 
+Anonymous information that we receive about you from third-party services such as Google Analytics, Google Play and others includes: installation information (for example, the type of operating system and the version number of the application), device information (hardware model and version of the operating system) and information about user behavior. 
+All data that is collected is used only for internal analysis and research in order to improve this product. 
+We are not responsible for the consequences of using our applications, the occurrence of failures in devices or their breakdown. 
+Our privacy policy may change from time to time. We will post any changes to the Privacy Policy on this page. 
+If you have any questions about our security policy, please [write](andrei.zisoshevelev@gmail.com) us.
+andrei.zisoshevelev@gmail.com
