@@ -28,3 +28,7 @@ We are not responsible for the consequences of using our applications, the occur
 Our privacy policy may change from time to time. We will post any changes to the Privacy Policy on this page. 
 If you have any questions about our security policy, please write us.
 andrei.zisoshevelev@gmail.com
+
+## Поддержать проект
+[Картой](https://pay.cloudtips.ru/p/124ada72)
+Криптокошелек 0x4c423C83df60331D5c9C93f97238c5bBda3A5863
