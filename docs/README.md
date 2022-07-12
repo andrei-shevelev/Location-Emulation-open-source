@@ -7,6 +7,4 @@
 
 ## Политика конфиденциальности
 
-[Здесь](./privacy_policy)
-
-<a href="./privacy_policy">Здесь</a>
+[Здесь](./privacy_policy/)
