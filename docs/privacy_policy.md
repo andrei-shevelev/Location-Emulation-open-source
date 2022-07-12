@@ -11,6 +11,7 @@
 Мы не несем ответственность за последствия использования наших приложений, возникновения сбоев в устройствах или их поломки. 
 Наша политика конфиденциальности может меняться время от времени. Мы будем размещать какие-либо изменения Политики конфиденциальности на этой странице. 
 Если у вас есть какие-то вопросы относительно нашей политики безопасности, пожалуйста пишите нам. 
+
 andrei.zisoshevelev@gmail.com
 
 
@@ -27,4 +28,5 @@ All data that is collected is used only for internal analysis and research in or
 We are not responsible for the consequences of using our applications, the occurrence of failures in devices or their breakdown. 
 Our privacy policy may change from time to time. We will post any changes to the Privacy Policy on this page. 
 If you have any questions about our security policy, please write us.
+
 andrei.zisoshevelev@gmail.com
